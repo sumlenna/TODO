@@ -1,0 +1,16 @@
+.wrapper {
+  background: var(--dark);
+  color: var(--white);
+  padding: 12px 0;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 16px;
+}
+.summary {
+  font-size: 16px;
+}
